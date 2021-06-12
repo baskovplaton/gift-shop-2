@@ -1,0 +1,11 @@
+.page__button_theme_black-background {
+    background-color: black;
+    color: white;
+    border: none;
+}
+.page__button_theme_black-background:hover {
+    scale: 1.2;
+    background-color: black;
+    border: 1px solid #F7941E;
+    color: #F7941E;
+  }

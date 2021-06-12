@@ -1,0 +1,39 @@
+@font-face {
+    font-family:'Inter';
+    src: url('../vendor/Inter/Inter-Regular.woff2') format('woff2'),
+         url('../vendor/Inter/Inter-Regular.woff') format('woff');
+    font-weight:normal;
+  }
+  @font-face {
+     font-family:'Inter';
+     src: url('../vendor/Inter/Inter-Bold.woff2') format('woff2'),
+         url('../vendor/Inter/Inter-Bold.woff') format('woff');
+    font-weight:bold;
+  }
+  @font-face {
+     font-family: 'Homemade Apple';
+     src:
+         url('../vendor/Homemade-Apple/HomemadeApple-Regular.woff2') format('woff2'),
+         url('../vendor/Homemade-Apple/HomemadeApple-Regular.woff') format('woff'),
+         url('../vendor/Homemade-Apple/HomemadeApple-Regular.ttf') format('truetype');
+     font-weight: normal;
+     font-style: normal;
+ }
+ @font-face {
+     font-family: 'Gilroy';
+     src:
+         url('../vendor/Gilroy/gilroy-regular.woff2') format('woff2'),
+         url('../vendor/Gilroy/gilroy-regular.woff') format('woff'),
+         url('../vendor/Gilroy/gilroy-regular.ttf') format('truetype');
+     font-weight: normal;
+     font-style: normal;
+ }
+ @font-face {
+     font-family: 'Gilroy';
+     src:
+         url('../vendor/Gilroy/Gilroy-Bold.woff2') format('woff2'),
+         url('../vendor/Gilroy/Gilroy-Bold.woff') format('woff'),
+         url('../vendor/Gilroy/Gilroy-Bold.ttf') format('truetype');
+     font-weight: bold;
+     font-style: normal;
+ }

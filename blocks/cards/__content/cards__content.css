@@ -1,0 +1,7 @@
+.cards__content {
+  width: 270px;
+  height: 166px;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-around;
+}

@@ -1,0 +1,9 @@
+.header {
+    max-height: 116px;
+    width: 1440px;
+    background-color: #fafafa;
+    display: flex;
+    box-sizing: border-box;
+    justify-content: space-between;
+    align-items: center;
+  }

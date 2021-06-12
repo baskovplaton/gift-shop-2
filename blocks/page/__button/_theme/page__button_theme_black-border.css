@@ -1,0 +1,10 @@
+.page__button_theme_black-border {
+    background-color: transparent;
+    color: black;
+    border: 1px solid black;
+}
+.page__button_theme_black-border:hover {
+    color: white;
+    border: 1px solid white;
+
+  }

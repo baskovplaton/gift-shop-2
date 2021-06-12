@@ -1,0 +1,6 @@
+.footer__image {
+  width: 38.4px;
+  height: 38.4px;
+  border-radius: 50%;
+  object-fit: cover;
+}

@@ -1,0 +1,6 @@
+.banner__image {
+  width: 400px;
+  height: 370px;
+  background-color: lightblue;
+  object-fit: cover;
+}

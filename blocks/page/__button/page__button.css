@@ -1,0 +1,18 @@
+/* Возможно стоило сделать button отдельным блоком, а каждую цветовую схему модификаторами?*/
+.page__button { 
+    border: 1px solid #F7941E;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: all 0.4s ease-in-out;
+    border-radius: 5px;
+    color: #F7941E;
+    
+    }
+.page__button:hover {
+    transform: scale(1.1);
+    background-color: #F7941E;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    }

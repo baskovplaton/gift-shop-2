@@ -1,0 +1,6 @@
+.banner {
+  background-color: black;
+  width: 1170px;
+  height: 370px;
+  display: flex;
+}

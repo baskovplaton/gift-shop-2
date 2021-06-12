@@ -1,0 +1,5 @@
+.two-columns {
+    display: flex;
+    width: 1440px;
+    background-color: #F1F1F2;
+}
